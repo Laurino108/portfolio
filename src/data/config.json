@@ -1,0 +1,44 @@
+{
+  "job": "Full Stack Developer",
+  "name": "Laurin Stapf",
+  "desc": "Text Text Text Text",
+  "email": "stapf_laurin@outlook.de",
+  "status": "off",
+  "hireMeLink": "https://threads.net/@laurino108",
+  "projects": [
+    {
+      "project-image-url": "https://dms.laurino.info/s/kgy52TGFn3PYw3R/preview",
+      "project-name": "Prem.AI",
+      "project-desc": "React Native Mobile Application (WIP)",
+      "project-link": "premai"
+    },
+    {
+      "project-image-url": "src/assets/app-icon.png",
+      "project-name": "My Portfolio",
+      "project-desc": "React + Tailwind Portfolio",
+      "project-link": "https://laurino.info"
+    }
+  ],
+  "social": [
+    {
+      "icon": "FaLink",
+      "link": "https://link.laurino.info"
+    },
+    {
+      "icon": "FaThreads",
+      "link": "https://threads.net/@laurino108"
+    },
+    {
+      "icon": "FaInstagram",
+      "link": "https://instagram.com/laurino108"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/laurino108"
+    },
+    {
+      "icon": "FaLinkedinIn",
+      "link": "https://linkedin.com/in/laurin-stapf"
+    }
+  ]
+}
